@@ -3,6 +3,8 @@
 Tasks is an easy to use todo-cum-calendar android app that focuses on providing<br>
 many functionalities while maintaining a simple and beautiful user-interface.
 
+- *This repo is a public viewpoint for the private project "Tasks".*
+
 ## FEATURES
 
 |Functionality|Usage|Light|Dark|
