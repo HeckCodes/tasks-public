@@ -23,3 +23,4 @@ Check out the release for the [latest release](https://github.com/HeckCodes/task
 |Light/Dark mode|Switch between light and dark mode with one click.|
 |Share text|Share text to add it as a task from other apps.<br>Press and hold a task to copy to clipboard for easy sharing.|
 |App Shortcuts|Directly add task, voice note, view calendar or search for tasks by long pressing app icon.|
+|Biometric Lock|User can now add a biometric lock for when opening the app|
